@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Inspirated By : 
 
 - [User Profile](https://dribbble.com/shots/6178208-User-Profile)
-
+- <img src = "https://dribbble.com/shots/6178208/attachments/6178208-User-Profile?mode=media">
 
 ## Screenshoots :
