@@ -11,6 +11,7 @@ class MainMenu extends StatelessWidget {
     double fem = MediaQuery.of(context).size.width / baseWidth;
     double ffem = fem * 0.97;
     return MaterialApp(
+      title: 'PawPaladin',
       scrollBehavior: MyCustomScrollBehavior(),
       theme: ThemeData(
         primarySwatch: Colors.blue,

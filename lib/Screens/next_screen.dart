@@ -12,6 +12,7 @@ class NextScreen extends StatelessWidget {
     double ffem = fem * 0.97;
 
     return MaterialApp(
+      title: 'PawPaladin',
       scrollBehavior: MyCustomScrollBehavior(),
       theme: ThemeData(
         primarySwatch: Colors.blue,
